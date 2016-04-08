@@ -1,0 +1,72 @@
+body{
+  background-color: #262F36;
+  height:100%;
+}
+
+h1,h2,h3,h4,h5,h6{
+  
+  color: #373a3c;
+}
+div p {
+  font-family: 'Noto Sans', sans-serif;
+}
+
+.buttons{
+  margin-top: 30px;
+  display: block;
+}
+
+#getQuote{
+  float: right; 
+}
+
+#tweetQuote{
+  float: left;
+  margin-right: 8px;
+}
+
+.button{
+  padding: 7px 12px;
+  color: white;
+  background-color: #373a3c;
+  border: none;
+  border-radius: 5px;
+}
+
+.button:hover{
+  color: white;
+  cursor: pointer;
+  opacity: 0.9;
+}
+
+.headingContainer h1{
+  padding: 50px 0px;
+  font-family: 'Handlee', cursive;
+  color: white;
+}
+
+.content-box{
+  background-color: #FFF;
+  padding: 3rem 2.5rem;
+  border-radius: 10px;
+}
+
+.content-box h4{
+  text-align: center;
+  padding-bottom: 1.25rem;
+}
+
+#main-footer {
+  background: #262F36;
+  color: white;
+  padding: 6rem 0;
+  font-size: 0.8rem;
+}
+
+#main-footer h6{
+  color: #718FA9
+}
+
+#main-footer a{
+  color: #6C6F73; 
+}
